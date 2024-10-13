@@ -1,0 +1,10 @@
+body {
+    width: 100%;
+    overflow-x: hidden;
+}
+
+.neon-red {
+    color: #ff073a; /* Neon kırmızı */
+    text-shadow: 0 0 5px #ff073a, 0 0 10px #ff073a, 0 0 15px #ff073a; /* Neon ışık efekti */
+  }
+  
